@@ -1,0 +1,244 @@
+[
+    {
+        "name": "Spotify original & exclusive shows",
+        "items": [
+            {
+                "id": "5vHokTsTmdlLBs1uPgDGN6",
+                "name": "Rintik Sedu",
+                "image": "https://i.scdn.co/image/ab6765630000ba8ac2b0862f6b12340651dd89e0",
+                "description": "a friend",
+                "publisher": "Rintiksedu"
+            },
+            {
+                "id": "6KjdNWVqAzKwXv9IgO2SMs",
+                "name": "Do You See What I See?",
+                "image": "https://i.scdn.co/image/4f0eb48893d5d349cbf7b30fccbd0517b9c24029",
+                "description": "Kumpulan Cerita Horor True Story. Kurasi cerita oleh @mizter.popo. Follow & kirim pesan ke Instagram @podcasthoror.id untuk diskusi dan berbagi kisah / pengalaman horor kalian.",
+                "publisher": "Cerita Horor True Story"
+            },
+            {
+                "id": "63EKgUTHNO6bUUdsFu3dUg",
+                "name": "Balada Onggok Si Anak Durhaka",
+                "image": "https://i.scdn.co/image/ab6765630000ba8a67f2dbd36e8f5c78bc993002",
+                "description": "Balada Onggok Si Anak Durhaka adalah Podcast Original terbaru dari Spotify, dipersembahkan oleh PODKESMAS Asia Network. Serial audio drama komedi ini menceritakan petualangan empat sahabat: Onggok, Omesan, Dartox, dan Suryo, ke dalam sebuah hutan ajaib. Namun, lewat serangkaian peristiwa mistis nan absurd, Onggok dikutuk menjadi #JambanEmas! Bisakah persahabatan mereka mengembalikan Onggok menjadi manusia? Jangan lewatkan kisahnya yang akan hadir setiap hari Selasa, Jumat dan Sabtu! Peringatan: Konten ini khusus 18+. Sangat tidak disarankan kepada pendengar berusia di bawah 18 tahun.",
+                "publisher": "Spotify Studios & Podkesmas Asia Network"
+            },
+            {
+                "id": "4uI2QsiFOwEecgUX8b1yg2",
+                "name": "BKR Brothers",
+                "image": "https://i.scdn.co/image/ac0bd4cef84a0b5cce6019d2e70dfccda6250298",
+                "description": "Podcast mingguan berisi seonggok obrolan ringan-ringan berat yang di-host oleh Ryo Wicaksono, Molen Kasetra dan Bobby Mandela.   Disclaimer: Podcast ini berisi obrolan absurd. We respect your right to be offended, therefore please respect our right to offend you.  Konten 21+  NSFW Don’t say we didn’t warn you.",
+                "publisher": "BKR Brothers"
+            },
+            {
+                "id": "1EYmQLqYuhzaBEvGlhtqEZ",
+                "name": "MENDOAN",
+                "image": "https://i.scdn.co/image/9751a28b8ccdae1e58db66c88c2305f8d021bd51",
+                "description": "Mendengarkan Dono dan Tian. Hanya sebuah podcast yang diadakan untuk tempat kami ngobrol, sudah. @donopradana @agustianprtama @podcastmendoan",
+                "publisher": "DONOTIAN"
+            },
+            {
+                "id": "1H0iGB2cfkYoTAEKwMcmHr",
+                "name": "PODKESMAS",
+                "image": "https://i.scdn.co/image/ab6765630000ba8aca7272cf616c8dd3e1eadcd5",
+                "description": "Tiap Senin & Kamis! Wajib FOLLOW & NYALAIN Notifikasi-nya juga yaaa . Empat pria dengan banyak perbedaan dalam diri mereka, dari perbedaan waktu lahir, perbedaan pasangan hidup, perbedaan saldo rekening, dan juga perbedaan popularitas. Hanya satu yang sama dari mereka, mereka yakin Podcast ini PASTI LUCU DAN BERGELIMANG TAWA! . for business inquiries please contact : contact@podkesmas.asia",
+                "publisher": "Podkesmas Asia "
+            },
+            {
+                "id": "1zyOm0UDyjwWnE7ZwNykBt",
+                "name": "GJLS ",
+                "image": "https://i.scdn.co/image/ab6765630000ba8a08d799296a0a977137a65ede",
+                "description": "Sebelum Lanjut Dengerin, FOLLOW Dulu Dong, Nyalain LONCENG Pun Deh! . Podcast Rigen, Rispo dan Hifdzi membicarakan semua hal yang kita sukai dong! . Jikalau ingin ber IKLAN dong pun ah langsung saja hubungi contact@podkesmas.asia",
+                "publisher": "Podkesmas Asia "
+            }
+        ]
+    },
+    {
+        "name": "Recommended for you",
+        "items": [
+            {
+                "id": "37i9dQZF1DWSGWRWu30rg7",
+                "name": "Fresh Finds Indonesia",
+                "image": "https://i.scdn.co/image/ab67706f0000000276adba8d34cd92111abfe46e",
+                "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: dilasarah Artwork: Isu Kim."
+            },
+            {
+                "id": "37i9dQZF1DWZxM58TRkuqg",
+                "name": "Puncak Klasemen",
+                "image": "https://i.scdn.co/image/ab67706f000000022b6ffd620b88f04d0eee78ae",
+                "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Hanin Dhiya"
+            },
+            {
+                "id": "37i9dQZF1DX6yQB7bkflag",
+                "name": "Pop Rising Indonesia",
+                "image": "https://i.scdn.co/image/ab67706f000000025ba24a1080574ba9c3987553",
+                "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Marion Jola, Teza Sumendra"
+            },
+            {
+                "id": "37i9dQZF1DXaYWhpF8H0HO",
+                "name": "Ke Seberang",
+                "image": "https://i.scdn.co/image/ab67706f00000002084349b599e7736d4f1b7e28",
+                "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Rafi Sudirman"
+            },
+            {
+                "id": "37i9dQZF1DXd82NU5rAcTZ",
+                "name": "IndieNesia",
+                "image": "https://i.scdn.co/image/ab67706f000000026ab6ab315fcaf8c6de9d42b6",
+                "description": "Jejeran lagu terfavorit dari kancah musik independen Indonesia. Cover: Endah N Rhesa"
+            },
+            {
+                "id": "37i9dQZF1DXaokDaMlNwPI",
+                "name": "Women of Indonesia",
+                "image": "https://i.scdn.co/image/ab67706f00000002195ce96e6bf49fbbe4734c90",
+                "description": "Artis wanita tanah air yang memperkaya keragaman musik Indonesia hari ini. Cover: Chintya Gabriella"
+            },
+            {
+                "id": "37i9dQZF1DXdKj73Pzxb5r",
+                "name": "Skena Gres",
+                "image": "https://i.scdn.co/image/ab67706f000000026c5b6fc17bc60278c2e86445",
+                "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Impromptu. "
+            }
+        ]
+    },
+    {
+        "name": "Fresh new music",
+        "items": [
+            {
+                "id": "68J2rIUZze8X3hAa8ali4k",
+                "name": "Will Of The People",
+                "image": "https://i.scdn.co/image/ab67616d0000b2737919549f17c69943e707edfc",
+                "artist": "Muse"
+            },
+            {
+                "id": "6fXesrnlXstTyz9uurgYEY",
+                "name": "Before",
+                "image": "https://i.scdn.co/image/ab67616d0000b273f999a6d840cca554e9ee3e80",
+                "artist": "NIKI"
+            },
+            {
+                "id": "5bFs3EpDL14QlNqfyKEvVl",
+                "name": "She Movin'",
+                "image": "https://i.scdn.co/image/ab67616d0000b27386bceb6d11a4092036dfd680",
+                "artist": "Yves V"
+            },
+            {
+                "id": "1Jkvi8YFy8FpDK23tTlrhG",
+                "name": "Spitting Off the Edge of the World",
+                "image": "https://i.scdn.co/image/ab67616d0000b27398599618d3a407da92271eae",
+                "artist": "Yeah Yeah Yeahs"
+            },
+            {
+                "id": "5Pz41jv4xOHJzn93rhHWle",
+                "name": "We Will Meet Again",
+                "image": "https://i.scdn.co/image/ab67616d0000b273dfe96e30e219186b192409bd",
+                "artist": "San Holo"
+            },
+            {
+                "id": "4r815m6eq8OXYzfqtk3FST",
+                "name": "Illusion",
+                "image": "https://i.scdn.co/image/ab67616d0000b273bbcfc52e0e8f3cecfc91520f",
+                "artist": "aespa"
+            },
+            {
+                "id": "3tfEX6ctvTwkZwzP91mQUC",
+                "name": "my Mystery",
+                "image": "https://i.scdn.co/image/ab67616d0000b2736558aa5f6abb53269e763e6d",
+                "artist": "Isyana Sarasvati"
+            }
+        ]
+    },
+    {
+        "name": "Trending now",
+        "items": [
+            {
+                "id": "2DskseIWepQ89TxfXn3MtY",
+                "name": "Tak Ingin Usai",
+                "image": "https://i.scdn.co/image/ab67616d0000b2738fa475b368164ab5eebe1a8d",
+                "artist": "Keisya Levronka"
+            },
+            {
+                "id": "5hBPn2RdDwvOsAo6vESoDJ",
+                "name": "Peneman Malam Sepi",
+                "image": "https://i.scdn.co/image/ab67616d0000b273b108514c5de973cf6086fb6b",
+                "artist": "OKAAY"
+            },
+            {
+                "id": "0OHmkBsSYP513ZQdbMrYOi",
+                "name": "Serana",
+                "image": "https://i.scdn.co/image/ab67616d0000b273d01c652006cd38b0ee3f49f3",
+                "artist": "For Revenge"
+            },
+            {
+                "id": "7gVYaMTDC2GCbpswDSHWVT",
+                "name": "Rumah Singgah",
+                "image": "https://i.scdn.co/image/ab67616d0000b273eafa7d20c7344e75e9fc85c9",
+                "artist": "Fabio Asher"
+            },
+            {
+                "id": "5BWl0bB1q0TqyFmkBEupZy",
+                "name": "Hounds Of Love",
+                "image": "https://i.scdn.co/image/ab67616d0000b27396ab64f52273635308b6bf27",
+                "artist": "Kate Bush"
+            },
+            {
+                "id": "7GEzhoTiqcPYkOprWQu581",
+                "name": "One Kiss (with Dua Lipa)",
+                "image": "https://i.scdn.co/image/ab67616d0000b273d09f96d82310d4d77c14c108",
+                "artist": "Calvin Harris"
+            },
+            {
+                "id": "18CtLoAMTr7F8ngtuM6D8i",
+                "name": "Until I Found You",
+                "image": "https://i.scdn.co/image/ab67616d0000b2738792c3e96f8ab97a767c5d0c",
+                "artist": "Stephen Sanchez"
+            }
+        ]
+    },
+    {
+        "name": "Featured Charts",
+        "items": [
+            {
+                "id": "37i9dQZEVXbNG2KDcFcKOF",
+                "name": "Top Songs - Global",
+                "image": "https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_global_default.jpg",
+                "description": "Your weekly update of the most played tracks right now - Global."
+            },
+            {
+                "id": "37i9dQZEVXbIZK8aUquyx8",
+                "name": "Top Songs - Indonesia",
+                "image": "https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_id_default.jpg",
+                "description": "Your weekly update of the most played tracks right now - Indonesia."
+            },
+            {
+                "id": "37i9dQZEVXbMDoHDwVN2tF",
+                "name": "Top 50 - Global",
+                "image": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_default.jpg",
+                "description": "Your daily update of the most played tracks right now - Global."
+            },
+            {
+                "id": "37i9dQZEVXbObFQZ3JLcXt",
+                "name": "Top 50 - Indonesia",
+                "image": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_id_default.jpg",
+                "description": "Your daily update of the most played tracks right now - Indonesia."
+            },
+            {
+                "id": "37i9dQZEVXbLiRSasKsNU9",
+                "name": "Viral 50 - Global",
+                "image": "https://charts-images.scdn.co/assets/locale_en/viral/daily/region_global_default.jpg",
+                "description": "Your daily update of the most viral tracks right now - Global."
+            },
+            {
+                "id": "37i9dQZEVXbKpV6RVDTWcZ",
+                "name": "Viral 50 - Indonesia",
+                "image": "https://charts-images.scdn.co/assets/locale_en/viral/daily/region_id_default.jpg",
+                "description": "Your daily update of the most viral tracks right now - Indonesia."
+            },
+            {
+                "id": "37i9dQZEVXbKpV6RVDTWcZ",
+                "name": "Viral 50 - Indonesia",
+                "image": "https://charts-images.scdn.co/assets/locale_en/viral/daily/region_id_default.jpg",
+                "description": "Your daily update of the most viral tracks right now - Indonesia."
+            }
+        ]
+    }
+]
